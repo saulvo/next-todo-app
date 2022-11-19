@@ -1,4 +1,4 @@
-import Navigator from '@/components/Navigator';
+import Navigator from 'components/Navigator';
 import './globals.css';
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
